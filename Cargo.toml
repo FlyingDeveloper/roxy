@@ -1,0 +1,6 @@
+[package]
+name = "roxy"
+version = "0.1.0"
+authors = ["Rob Hamilton <RobHamilton+github@gmail.com>"]
+
+[dependencies]
